@@ -1,4 +1,4 @@
-// Program to add to very big numbers (out of range of int)
+// Program to add two big numbers in C (out of range of int)
 #include <stdio.h>
 #include <string.h>
 
